@@ -1,2 +1,2 @@
 # SortingFruits
-Sorting Fruits - aple and orange into shelfs
+Sorting Fruits - apple and orange into shelfs
